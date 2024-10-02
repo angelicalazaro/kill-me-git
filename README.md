@@ -1,3 +1,4 @@
+REMOTE
 # kill-me-git
 I hate Git
 J'espere qu'un jour je reussirai à utiliser ce programme parce que il me desespere
